@@ -75,6 +75,7 @@
 - [Dribbble](https://dribbble.com/)
 - [Onepagelove](https://onepagelove.com/inspiration)
 - [Webframe](https://webframe.xyz/)
+- [Landingpage](https://landingpage.fyi/)
 
 ### Design Tools
 
