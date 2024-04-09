@@ -314,8 +314,6 @@
 - [They Said So Quotes API](http://quotes.rest/)
 - [Public API List](https://github.com/public-apis/public-apis)
 - [Rapid Api](https://rapidapi.com/hub)
-- [RM & U API Cookbook js](https://hub.alfresco.com/t5/alfresco-content-services-hub/javascript-api-cookbook/ba-p/293260)
-- [RM & U API Cookbook java](https://hub.alfresco.com/t5/alfresco-content-services-hub/java-api-cookbook/ba-p/290645)
 
 
 ## Developer Tools
