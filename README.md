@@ -1,7 +1,7 @@
 # Awesome Free Developer Resources
 
 ## Table Of Contents:
-
+- [Remote Sites](#remote-sites)
 - [Accessibility](#accessibility)
 - [Design](#design)
   - [Design Inspiration](#design-inspiration)
@@ -60,6 +60,23 @@
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
 - [Practise](#practise)
+
+## Remote Sites
+- [JustRemote](https://justremote.co/remote-jobs)
+- [Turing](https://www.turing.com/)
+- [Wellfound](https://wellfound.com/)
+- [WorkingNomads](https://www.workingnomads.com/jobs)
+- [Remote](https://remote.com/)
+- [Odeskwork](https://www.odeskwork.com/)
+- [Jobboardfinder](https://www.jobboardfinder.com/en/)
+- [Jsremotely](https://jsremotely.com/)
+- [Remote](https://remote.co/)
+- [Remoteok](https://remoteok.com/)
+- [Himalayas](https://himalayas.app/jobs)
+- [Weworkremotely](https://weworkremotely.com/)
+- [Good Talent](https://www.flexjobs.com/)
+- [Upwork](https://www.upwork.com/)
+- [Fiverr](https://www.fiverr.com/)
 
 ## Accessibility
 
@@ -635,22 +652,7 @@
 - 
 
 
-## Remote Sites
-- [JustRemote](https://justremote.co/remote-jobs)
-- [Turing](https://www.turing.com/)
-- [Wellfound](https://wellfound.com/)
-- [WorkingNomads](https://www.workingnomads.com/jobs)
-- [Remote](https://remote.com/)
-- [Odeskwork](https://www.odeskwork.com/)
-- [Jobboardfinder](https://www.jobboardfinder.com/en/)
-- [Jsremotely](https://jsremotely.com/)
-- [Remote](https://remote.co/)
-- [Remoteok](https://remoteok.com/)
-- [Himalayas](https://himalayas.app/jobs)
-- [Weworkremotely](https://weworkremotely.com/)
-- [Good Talent](https://www.flexjobs.com/)
-- [Upwork](https://www.upwork.com/)
-- [Fiverr](https://www.fiverr.com/)
+
 
 ## Free
 - [https://free-for.dev/]
