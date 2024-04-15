@@ -32,6 +32,7 @@
 - [APIs](#apis)
 - [Developer Tools](#developer-tools)
 - [Chrome Extensions](#chrome-extensions)
+- [Vs-code Extensions](#vscode-extensions)
 - [Domain Name Search Engine](#domain-name-search-engine)
 - [Hosting](#hosting)
 - [Database](#database)
@@ -356,6 +357,28 @@
 - [Wireframe](https://chrome.google.com/webstore/detail/wireframe/amchfjeinhflcmbpdgdihhdoogdagcaf?hl=en-GB)
 - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?ref=designrevision.com)
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en%20)
+- [Colorzilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+- [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+- [Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
+- [Json Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+- [Session Buddy](https://chromewebstore.google.com/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
+- [Fake filler](https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)
+- [Quick Source Viewer](https://chromewebstore.google.com/detail/quick-source-viewer/cfmcghennfbpmhemnnfjhkdmnbidpanb)
+- [Css viewer](chrome-extension://ggfgijbpiheegefliciemofobhmofgce/option.html)
+- [User Agent Switcher](https://chromewebstore.google.com/detail/user-agent-switcher/kchfmpdcejfkipopnolndinkeoipnoia)
+- [Visbug](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
+- [Lt-debug](https://chromewebstore.google.com/detail/lt-debug/kofahhnmgobkidipanhejacffiigppcd)
+- [Check my links](https://chromewebstore.google.com/detail/website-broken-link-and-4/kkjfobdnekhdpmgomkpeibhlnmcjgian)
+- [Web developer checklist](https://chromewebstore.google.com/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp)
+- [Click up](https://chromewebstore.google.com/detail/clickup-tasks-screenshots/pliibjocnfmkagafnbkfcimonlnlpghj)
+- [Checkbot](https://chromewebstore.google.com/detail/clickup-tasks-screenshots/pliibjocnfmkagafnbkfcimonlnlpghj)
+- [IE Tab](https://chromewebstore.google.com/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd)
+- [Lorem Ipsum](https://chromewebstore.google.com/detail/lorem-ipsum-generator/pglahbfamjiifnafcicdibiiabpakkkb)
+- [Holla vp](https://chromewebstore.google.com/detail/hola-vpn-the-website-unbl/gkojfkhlekighikafcpjkiklfbnlmeio)
+  
+## Vscode Extensions
+
+- []
 
 ## Domain Name Search Engine
 
