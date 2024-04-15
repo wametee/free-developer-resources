@@ -378,7 +378,26 @@
   
 ## Vscode Extensions
 
-- []
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Github copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Multiple Cursor Case Preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)
+- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+- [Git Lens](https://marketplace.visualstudio.com/items?itemName=TechieCouch.git-essentials)
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+- [Console ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
+- [RegEx Snippets](https://marketplace.visualstudio.com/items?itemName=Monish.regexsnippets)
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Document This](https://marketplace.visualstudio.com/items?itemName=oouo-diogo-perdigao.docthis)
+- [Chatgpt](https://marketplace.visualstudio.com/items?itemName=zhang-renyang.chat-gpt)
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+- [Postman](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
+- [Rest Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+- [Codiumate/Codium AI](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+- [Quokka](https://marketplace.visualstudio.com/items?itemName=Centuplex.quokka)
 
 ## Domain Name Search Engine
 
