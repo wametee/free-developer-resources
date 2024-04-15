@@ -62,8 +62,11 @@
 - [Practise](#practise)
 
 ## Remote Sites
-- [JustRemote](https://justremote.co/remote-jobs)
 - [Turing](https://www.turing.com/)
+- [Goodtalent](https://goodtalent.io/)
+- [Proxify](https://proxify.io/)
+- [Toptal](https://www.toptal.com/)
+- [JustRemote](https://justremote.co/remote-jobs)
 - [Wellfound](https://wellfound.com/)
 - [WorkingNomads](https://www.workingnomads.com/jobs)
 - [Remote](https://remote.com/)
