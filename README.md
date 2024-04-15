@@ -364,7 +364,7 @@
 - [Session Buddy](https://chromewebstore.google.com/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
 - [Fake filler](https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)
 - [Quick Source Viewer](https://chromewebstore.google.com/detail/quick-source-viewer/cfmcghennfbpmhemnnfjhkdmnbidpanb)
-- [Css viewer](chrome-extension://ggfgijbpiheegefliciemofobhmofgce/option.html)
+- [Css viewer](https://chromewebstore.google.com/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
 - [User Agent Switcher](https://chromewebstore.google.com/detail/user-agent-switcher/kchfmpdcejfkipopnolndinkeoipnoia)
 - [Visbug](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
 - [Lt-debug](https://chromewebstore.google.com/detail/lt-debug/kofahhnmgobkidipanhejacffiigppcd)
