@@ -189,6 +189,7 @@
 - [Feather](https://feathericons.com/)
 - [React icons](https://react-icons.github.io/react-icons/)
 - [Lucide](https://lucide.dev/)
+- [Hugeicons](https://hugeicons.com/)
 
 ### User interface
 - [shadcn](https://ui.shadcn.com/)
