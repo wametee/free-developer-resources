@@ -44,7 +44,7 @@
 - [Javascript](#javascript)
 - [Nextjs](#nextjs)
 - [Speed Test](#speed-test)
-- [Data Structures and Algoritm](#DatastructuresandAlgorithms)
+- [Data Structures and Algorithm](#DatastructuresandAlgorithms)
 - [Documentation](#documentation)
 - [RoadMaps](#roadmaps)
 - [YouTube Channels](#youtube-channels)
