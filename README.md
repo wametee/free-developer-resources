@@ -157,6 +157,7 @@
 - [https://colors.lol/](https://colors.lol/)
 - [http://colormind.io/](http://colormind.io/)
 - [Colordesigner](https://colordesigner.io/)
+- [Color-name](https://www.color-name.com/)
 
 #### Gradients
 
