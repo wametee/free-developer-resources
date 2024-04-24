@@ -80,6 +80,7 @@
 - [Good Talent](https://www.flexjobs.com/)
 - [Upwork](https://www.upwork.com/)
 - [Fiverr](https://www.fiverr.com/)
+- [Punditspace](https://www.punditspace.io/)
 
 ## Accessibility
 
