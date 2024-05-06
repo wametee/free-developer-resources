@@ -100,6 +100,9 @@
 - [Webframe](https://webframe.xyz/)
 - [Landingpage](https://landingpage.fyi/)
 - [Handheld](https://handheld.design/)
+- [Collectui](https://collectui.com/)
+- [Screenlane](https://screenlane.com/)
+- [Lookup](https://lookup.design/)
 
 ### Design Tools
 
