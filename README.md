@@ -1,7 +1,7 @@
 # Awesome Free Developer Resources
 
 ## Table Of Contents:
-- [Remote Sites](#remote-sites)
+- [Remote Jobs](#remote-sites)
 - [Accessibility](#accessibility)
 - [Design](#design)
   - [Design Inspiration](#design-inspiration)
