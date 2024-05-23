@@ -63,6 +63,7 @@
 
 ## Remote Sites
 - [Turing](https://www.turing.com/)
+- [Intajob](https://instajob.io/)
 - [Goodtalent](https://goodtalent.io/)
 - [Proxify](https://proxify.io/)
 - [Toptal](https://www.toptal.com/)
