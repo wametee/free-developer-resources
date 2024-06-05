@@ -67,6 +67,7 @@
 - [Goodtalent](https://goodtalent.io/)
 - [Proxify](https://proxify.io/)
 - [Toptal](https://www.toptal.com/)
+- [Remotive](https://remotive.com/)
 - [JustRemote](https://justremote.co/remote-jobs)
 - [Jobs](https://jobs.a16z.com/jobs)
 - [Wellfound](https://wellfound.com/)
