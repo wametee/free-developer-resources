@@ -85,6 +85,8 @@
 - [Upwork](https://www.upwork.com/)
 - [Fiverr](https://www.fiverr.com/)
 - [Punditspace](https://www.punditspace.io/)
+- [Absa](https://absa.wd3.myworkdayjobs.com/)
+- [Ncba](https://career12preview.sapsf.eu/career?company=commercialT1&)
 
 ## Accessibility
 
