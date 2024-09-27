@@ -67,6 +67,7 @@
 - [Goodtalent](https://goodtalent.io/)
 - [Proxify](https://proxify.io/)
 - [Toptal](https://www.toptal.com/)
+- [Wellfound](https://wellfound.com/)
 - [Remotive](https://remotive.com/)
 - [JustRemote](https://justremote.co/remote-jobs)
 - [Feedcoyote](https://feedcoyote.com/)
