@@ -70,6 +70,7 @@
 - [Proxify](https://proxify.io/)
 - [Toptal](https://www.toptal.com/)
 - [Kontorva](kontorva.com)
+- [Meta](https://www.metacareers.com/)
 - [Wellfound](https://wellfound.com/)
 - [Remotive](https://remotive.com/)
 - [JustRemote](https://justremote.co/remote-jobs)
@@ -91,7 +92,6 @@
 - [Punditspace](https://www.punditspace.io/)
 - [Absa](https://absa.wd3.myworkdayjobs.com/ABSAcareersite?locationCountry=9e684fd7be1e469d9ee955a4c3b754be)
 - [Ncba](https://career12preview.sapsf.eu/career?company=commercialT1&)
-- [Greenpathjobs](https://greenpathjobsconnect.lovable.app/)
 
 ## Accessibility
 
